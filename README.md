@@ -1,4 +1,4 @@
-# THM-Writeup-Networking
+# Networking
 **By Ramyar Daneshgar**
 
 The OSI (Open Systems Interconnection) model is a conceptual framework that defines how different networking protocols interact in a networked system. It consists of seven abstraction layers, each responsible for specific tasks in the end-to-end transmission of data. Understanding each layer in detail is foundational in the field of cybersecurity, especially in areas such as threat modeling, intrusion detection, traffic inspection, and vulnerability exploitation or mitigation.
